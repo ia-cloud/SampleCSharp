@@ -13,8 +13,7 @@ WIP
 + --
 
 ## お問い合わせ
-+ 本ライブラリ及びサンプルに関するお問い合わせ xxxx@ktsystem.jp
-+ ia-cloud に関するお問い合わせ yyyy@ia-cloud.com
++ ia-cloud に関するお問い合わせ ia-cloud@mstc.or.jp
 
 ## ライセンス
 (c) 2016 K.T.System Co., Ltd. All rights reserved.
