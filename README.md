@@ -12,10 +12,10 @@ WIP
 ## サンプル
 
 ### 機器から取得したデータをそのままia-cloudへ送信する
-[サンプルコード](./IaCloudCsSample/IaCloudCsSample/Program.cs#L15-L46)を参考にしてください
+[IaCloudCsSample/IaCloudCsSample/Program.cs](./IaCloudCsSample/IaCloudCsSample/Program.cs#L15-L46) を参考にしてください
 
 ### CSV形式で保存したデータをia-cloudへ送信する
-[サンプルコード](IaCloudCsSample/IaCloudCsSample/CsvSample.cs#L17-L57)を参考にしてください
+[IaCloudCsSample/IaCloudCsSample/CsvSample.cs](./IaCloudCsSample/IaCloudCsSample/CsvSample.cs#L17-L57) を参考にしてください
 
 ## リリースノート
 + --
